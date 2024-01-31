@@ -1,0 +1,6 @@
+21:57:21: ID guid -  HwProfileGuid - Before: e1ab6f40-3a2b-4003-a7b5-d27e3ac4a9a3 (Before)
+21:57:21: ID guid -  HwProfileGuid - After: 94bf7010-0bdc-4f1f-b020-77f66dac46b4 (After)
+21:57:21: ID ChangeMachineGuid -  Machine GUID - Before: 0366s678-x276-e056-a930-y4943y49 (Before)
+21:57:21: ID ChangeMachineGuid -  Machine GUID - After: 0518a043-t059-p597-y614-d8963d33 (After)
+21:57:21: ID pcname -  ComputerName - Before: Mariel-9VSYLH8 (Before)
+21:57:21: ID pcname -  ComputerName - After: Mariel-IVWSOY6 (After)

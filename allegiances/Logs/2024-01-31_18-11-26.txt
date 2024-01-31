@@ -1,0 +1,2 @@
+18:11:26: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: Adata XPG SX8200 Pro 1TB, SerialNumber: GNVJOYFXWIBGOI (Before)
+18:11:26: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: Toshiba N300 8TB, SerialNumber: HO9CQWJMWH4BXY (After)

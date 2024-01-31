@@ -1,0 +1,4 @@
+21:57:40: ID bios_release -  BIOSReleaseDate - Before: 07/01/2017 (Before)
+21:57:40: ID bios_release -  BIOSReleaseDate - After: 03/21/1996 (After)
+21:57:40: ID guid -  MachineId - Before: 1deae71c-3cdc-46ec-aec6-e69ce1ebb045 (Before)
+21:57:40: ID guid -  MachineId - After: b86f870c-9166-49d0-ae8f-60ce1b8db265 (After)

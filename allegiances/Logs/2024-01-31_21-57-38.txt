@@ -1,0 +1,4 @@
+21:57:38: ID pcname -  ComputerName - Before: Mariel-IVWSOY6 (Before)
+21:57:38: ID pcname -  ComputerName - After: Mariel-1EYZBZI (After)
+21:57:38: ID display -  Display ID - Before: SpoofedDisplay8 (Before)
+21:57:38: ID display -  Display ID - After: 7 (After)

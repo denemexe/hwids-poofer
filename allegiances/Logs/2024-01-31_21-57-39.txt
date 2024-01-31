@@ -1,0 +1,6 @@
+21:57:39: ID efi -  EFI Variable ID - Before: aa39b010-fe85-4149-ac6d-c18303b8ac5a (Before)
+21:57:39: ID efi -  EFI Variable ID - After: 209f1082-4a0a-43b3-bf11-046ec61874bc (After)
+21:57:39: ID smbios -  SMBIOS SystemSerialNumber - Before: GWO1GGMC5I (Before)
+21:57:39: ID smbios -  SMBIOS SystemSerialNumber - After: CF0KPZNFS8 (After)
+21:57:39: ID product -  Product ID - Before: 22988-30460-03656-M7 (Before)
+21:57:39: ID product -  Product ID - After: 13243-16589-38537-T7 (After)

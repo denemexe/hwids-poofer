@@ -1,0 +1,6 @@
+21:57:23: ID smbios -  SMBIOS SystemSerialNumber - Before: M3Y9H8ONQB (Before)
+21:57:23: ID smbios -  SMBIOS SystemSerialNumber - After: GWO1GGMC5I (After)
+21:57:23: ID product -  Product ID - Before: 09809-84334-11653-M0 (Before)
+21:57:23: ID product -  Product ID - After: 22988-30460-03656-M7 (After)
+21:57:23: ID bios_release -  BIOSReleaseDate - Before: 09/18/2018 (Before)
+21:57:23: ID bios_release -  BIOSReleaseDate - After: 07/01/2017 (After)

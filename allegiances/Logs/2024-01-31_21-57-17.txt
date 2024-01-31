@@ -1,0 +1,2 @@
+21:57:17: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: Samsung SSD 870 QVO 1TB, SerialNumber: B1C0IL48P77P8I (Before)
+21:57:17: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: HP EX920 512GB, SerialNumber: MDZ5TJ1JDQM7QY (After)

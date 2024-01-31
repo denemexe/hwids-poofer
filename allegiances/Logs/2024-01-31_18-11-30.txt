@@ -1,0 +1,4 @@
+18:11:30: ID guid -  HwProfileGuid - Before: d6dca987-6334-4b4b-8326-7dfe32cc70a7 (Before)
+18:11:30: ID guid -  HwProfileGuid - After: 38d6f7c7-9ac8-4380-b3d2-29411c9edb05 (After)
+18:11:30: ID ChangeMachineGuid -  Machine GUID - Before: 4889d217-o472-k785-l456-n0021k11 (Before)
+18:11:30: ID ChangeMachineGuid -  Machine GUID - After: 2679g169-v591-k360-j599-o7237n86 (After)
