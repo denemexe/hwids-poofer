@@ -1,2 +1,0 @@
-21:57:33: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: HP EX920 512GB, SerialNumber: MDZ5TJ1JDQM7QY (Before)
-21:57:33: ID disk -  DiskPeripheral Scsi Bus 0\Target Id 0\Logical Unit Id 0 - Identifier: Western Digital Black 6TB, SerialNumber: W4AYW7B4ZQ9Q2X (After)

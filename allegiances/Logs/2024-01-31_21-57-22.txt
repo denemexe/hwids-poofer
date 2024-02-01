@@ -1,4 +1,0 @@
-21:57:22: ID display -  Display ID - Before: SpoofedDisplay5 (Before)
-21:57:22: ID display -  Display ID - After: 8 (After)
-21:57:22: ID efi -  EFI Variable ID - Before: df4d1d5c-b574-4907-8725-6bfac726b021 (Before)
-21:57:22: ID efi -  EFI Variable ID - After: aa39b010-fe85-4149-ac6d-c18303b8ac5a (After)

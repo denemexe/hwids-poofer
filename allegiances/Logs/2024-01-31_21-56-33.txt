@@ -1,2 +1,0 @@
-21:56:33: ID efi -  EFI Variable ID - Before: 8207411d-89ec-4d02-91d0-f091ad9b14d7 (Before)
-21:56:33: ID efi -  EFI Variable ID - After: df4d1d5c-b574-4907-8725-6bfac726b021 (After)

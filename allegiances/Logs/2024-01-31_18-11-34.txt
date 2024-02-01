@@ -1,2 +1,0 @@
-18:11:34: ID smbios -  SMBIOS SystemSerialNumber - Before: T22QTO904A (Before)
-18:11:34: ID smbios -  SMBIOS SystemSerialNumber - After: GJGYMXIGYE (After)
